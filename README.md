@@ -7,8 +7,11 @@
 Today's class I learned 
 
 What is HTML,
+
 What is tags in html?
+
 How web pages work.
+
 What html, head, title, body, paragraph tags are.
 
 
